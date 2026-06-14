@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model Cache Files
+*.h5
+*.ckpt
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Python Build Files
+build/
+dist/
+*.egg-info/
+
+# TensorFlow
+tensorboard_logs/
+
+# Environment Variables
+.env
+
+# Notebook Autosaves
+*.nbconvert.ipynb
