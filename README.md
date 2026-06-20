@@ -119,7 +119,7 @@ Network_Intrusion_Detection_System/
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Network_Intrusion_Detection_System.git
+git clone https://github.com/Bijoy-paul-01/Network_Intrusion_Detection_System.git
 
 Move to project directory:
 
